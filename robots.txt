@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tk-ramen.github.io/chiba-souvenir-ranking/sitemap.xml
